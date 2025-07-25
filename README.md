@@ -1,6 +1,6 @@
 # Hi there, I'm Eyob Afework! 👋
 
-![Banner Image](https://drive.google.com/file/d/10ogmVxChj3nbLyUFxfcIHhQF-DKG0-dg/view?usp=sharing))
+https://drive.google.com/file/d/10ogmVxChj3nbLyUFxfcIHhQF-DKG0-dg/view?usp=sharing
 
 ## About Me 🚀
 
