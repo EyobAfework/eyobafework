@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Eyob Afework! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image]([your_banner_image_url_here](https://drive.google.com/file/d/10ogmVxChj3nbLyUFxfcIHhQF-DKG0-dg/view?usp=sharing))
 
 ## About Me 🚀
 
