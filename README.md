@@ -1,6 +1,6 @@
 # Hi there, I'm Eyob Afework! 👋
 
-https://drive.google.com/file/d/10ogmVxChj3nbLyUFxfcIHhQF-DKG0-dg/view?usp=sharing
+![HTML]([https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white](https://drive.google.com/file/d/10ogmVxChj3nbLyUFxfcIHhQF-DKG0-dg/view?usp=sharing))
 
 ## About Me 🚀
 
